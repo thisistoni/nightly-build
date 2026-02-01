@@ -1,0 +1,11 @@
+node_modules/
+test-data/
+data/
+*.log
+.DS_Store
+.env
+.vscode/
+.idea/
+coverage/
+dist/
+build/
