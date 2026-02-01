@@ -1,0 +1,49 @@
+[
+  {
+    "id": "task_1769914167345_lmkjmbq7k",
+    "title": "Build nightly-build system MVP",
+    "description": "",
+    "priority": "high",
+    "status": "completed",
+    "createdAt": "2026-02-01T02:49:27.345Z",
+    "completedAt": "2026-02-01T02:49:49.784Z",
+    "heartbeatCycles": 1,
+    "tags": [],
+    "completionNotes": "MVP built with TaskManager, CLI, and heartbeat integration"
+  },
+  {
+    "id": "task_1769914170621_omqfoxzyz",
+    "title": "Write tests for TaskManager",
+    "description": "",
+    "priority": "medium",
+    "status": "completed",
+    "createdAt": "2026-02-01T02:49:30.621Z",
+    "completedAt": "2026-02-01T02:51:24.067Z",
+    "heartbeatCycles": 1,
+    "tags": [],
+    "completionNotes": "7 manual tests passed: add task, get pending, complete task, priority sorting, anti-slacking, activity logging, heartbeat cycles"
+  },
+  {
+    "id": "task_1769914170661_pz9q1gc84",
+    "title": "Create heartbeat integration script",
+    "description": "",
+    "priority": "high",
+    "status": "completed",
+    "createdAt": "2026-02-01T02:49:30.661Z",
+    "completedAt": "2026-02-01T02:49:55.447Z",
+    "heartbeatCycles": 0,
+    "tags": [],
+    "completionNotes": "Created heartbeat-check.js with task recommendations and anti-slacking alerts"
+  },
+  {
+    "id": "task_1769914170696_qhgwflbsx",
+    "title": "Document usage in README",
+    "description": "",
+    "priority": "low",
+    "status": "pending",
+    "createdAt": "2026-02-01T02:49:30.696Z",
+    "completedAt": null,
+    "heartbeatCycles": 0,
+    "tags": []
+  }
+]

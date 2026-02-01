@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "morningReportTime": "08:00",
+  "antiSlacking": {
+    "minTasksPerDay": 1,
+    "maxIdleHeartbeats": 3,
+    "enabled": true
+  },
+  "storage": {
+    "tasksFile": "./data/tasks.json",
+    "logsFile": "./data/activity.log"
+  }
+}
